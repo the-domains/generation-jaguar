@@ -1,7 +1,7 @@
 name: Generation Jaguar
 favicon: null
-layout_spectrum: 0.6258757431060076
-typography_spectrum: 0.5783372703008354
+layout_spectrum: 1
+typography_spectrum: 0.2946
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#006778'
+    - '#ffffff'
+    - '#9f792c'
+    - '#69a6af'
   brandStrength: 0.34244976635091007
   lightness: 0.3116444363258779
   saturation: 0.7876044653821737
