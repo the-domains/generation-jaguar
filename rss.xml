@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Generation Jaguar]]></title>
+        <description><![CDATA[Generation Jaguar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 14:50:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Jaguars have signed offensive lineman Jacques Mcclendon and released wide receiver Rasheed Bailey. </p>]]></description>
+            <link>undefinedthe-jaguars-have-signed-offensive-lineman-jacques-mcclendon/index.html</link>
+            <guid isPermaLink="false">8c79d19c-daf5-4a9a-81cb-91809913875a</guid>
+            <pubDate>Wed, 17 Aug 2016 14:50:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
